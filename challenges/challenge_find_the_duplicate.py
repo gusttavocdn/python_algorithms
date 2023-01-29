@@ -10,6 +10,3 @@ def find_duplicate(nums: list[int]):
             return nums[i]
 
     return False
-
-
-print(find_duplicate([3, 1, 2, 4, 6, 5, 7, 7, 7, 8]))
