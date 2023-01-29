@@ -43,6 +43,3 @@ def merge(string, start, mid, end):
             right_index += 1
 
     return string
-
-
-# print(is_anagram("PEDRA", "perda"))
