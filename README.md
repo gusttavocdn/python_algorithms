@@ -11,7 +11,7 @@ The objective of this project was to develop a series of algorithms focusing ent
 <br />
 
 </details>
-<details>
+<details open>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
 Projeto de Python e ciência de dados desenvolvido por [Gustavo da Silva](https://www.linkedin.com/in/gustavocdn/) ao final da Seção 3 do Módulo de Ciências de Computação do curso de Desenvolvimento Web da Trybe.
